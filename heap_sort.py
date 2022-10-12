@@ -37,3 +37,15 @@ n = len(arr)
 print('Sorted array is')
 for i in range(n):
     print(arr[i])
+    arr = [12, 11, 13, 5, 6, 7, ]
+heapSort(arr)
+n = len(arr)
+print('Sorted array is')
+for i in range(n):
+    print(arr[i])
+    arr = [12, 11, 13, 5, 6, 7, ]
+heapSort(arr)
+n = len(arr)
+print('Sorted array is')
+for i in range(n):
+    print(arr[i])
